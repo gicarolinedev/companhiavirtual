@@ -7,6 +7,12 @@ A Zizi é um chatbot inovador e empático, desenvolvido para ser uma **CompanhIA
 
 Este projeto é um exemplo prático de como a IA pode ser utilizada para construir soluções inclusivas e com alto impacto social, sendo **100% concebido e criado com o apoio de ferramentas de Inteligência Artificial**.
 
+## Identidade Visual: Um Camaleão Muito Especial 🦎
+
+A mascote da Zizi é um camaleão, escolhido por sua incrível capacidade de mudar de cor conforme suas emoções, uma representação simbólica da diversidade emocional e da sensibilidade que muitas crianças com TEA experimentam diariamente.
+
+Gerado com ferramentas de IA generativa (como o Sora), esse camaleão não é apenas um personagem fofo: ele é um lembrete visual de que cada criança é única e expressa suas emoções de maneiras diferentes (e tudo bem!) 💛
+
 ## Funcionalidades Principais
 
 * **Interação Empática com Crianças:** Chatbot com IA otimizada para conversas adaptadas e carinhosas, promovendo o desenvolvimento de linguagem e autonomia em crianças com TEA.
