@@ -1,6 +1,6 @@
 # Zizi - Sua CompanhIA & Suporte Virtual ✨
 
-![Mascote Zizi](33.JPG)
+![Mascote Zizi](https://github.com/gicarolinedev/companhiavirtual/blob/main/static/companhiavirtual.png?raw=true)
 ## Visão Geral do Projeto
 
 A Zizi é um chatbot inovador e empático, desenvolvido para ser uma **CompanhIA & Suporte Virtual** para famílias que convivem com o Transtorno do Espectro Autista (TEA). Criada com o poder da Inteligência Artificial de ponta, a Zizi visa auxiliar crianças com TEA ou dificuldades de socialização no desenvolvimento de linguagem e autonomia, e oferecer suporte vital aos seus cuidadores.
