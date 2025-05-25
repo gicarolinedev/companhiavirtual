@@ -175,7 +175,7 @@ body {
 
 /* Botões de ação inferiores */
 .action-buttons {
-    margin-bottom: rem;
+    margin-bottom: 5rem;
     display: flex;
     padding: 1rem;
     gap: 0.5rem;
